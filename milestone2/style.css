@@ -1,0 +1,55 @@
+body {
+	background-color: rgb(246, 246, 246);
+	padding: 20px;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+.titles {
+	font-family: 'Noto Sans JP', sans-serif;
+	margin-bottom: 20px;
+}
+
+.input-section {
+	font-family: 'Roboto', serif;
+}
+
+.input-label {
+	margin-bottom: 10px;
+}
+
+.input-group {
+	margin-bottom: 20px;
+}
+
+.input-group input,select{
+	height: 40px;
+	width: 400px;
+	padding: 10px;
+	border: 2px solid rgb(210, 210, 210);
+}
+
+.input-group textarea {
+	height: 160px;
+	width: 480px;
+	padding: 10px;
+	border: 2px solid rgb(210, 210, 210);
+}
+
+.observation span {
+	margin-right: 10px;
+}
+
+.observation input {
+	width: 100px;
+}
+
+.submit {
+	padding: 20px;
+	font-size: 18px;
+	font-weight: 700;
+	color: white;
+	background-color: rgb(230, 126, 34);
+}
